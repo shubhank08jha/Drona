@@ -1,0 +1,8 @@
+{
+  "name": "Drona - AI Powered Homework Mentor",
+  "description": "An advanced educational platform for teachers and students featuring automated homework verification and personalized AI feedback.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "billingDocs": "ai.google.dev/gemini-api/docs/billing"
+}
